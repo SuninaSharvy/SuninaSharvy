@@ -1,6 +1,5 @@
 
 - 👀 I’m interested in ... 
-- 🌱 I’m currently learning ... python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... suninahamsa@gmail.com
 
